@@ -5,6 +5,7 @@ My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently no
 Builds are in releases !! Have fun :D
 
 =====================================>
+
 Supports iOS, Android, Windows
 
 - Offline Play & LAN Multiplayer
@@ -23,12 +24,17 @@ Supports iOS, Android, Windows
 - Special events (average 12 hours/8 hours with 2+ people)
 - Block Drops(Piglet, Chick, Calf, Butterfly, Penguin, Kerjigger, Hedge/Foliage, etc)
 - And ALOOOOT more to truly be an authentic rollback to 2015 <3
+- 
 =====================================>
+
 WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney, Pineapple, Legendary Wizards quests, Challenges Substitude, Golden apple, Trophy3000/3001 & Growie obtainment, Fishing system, finish undersea blast generation calculations, rest of achievements, optimizing, vita port, LEGENDARYMOUNTAIN, STOPDONTDROP, WHATVILLE, WOLFWORLD, KYDERBY, Winterfest special events, fishing pack
 ALSO Finish wiki, not everything is labeled correctly, i was transitioning how im handling wip/moderator items (i had wip/unobtainable as the same thing so)
+
 =====================================>
+
 Please report any issues/inaccuracies you find, and feel free to ask questions!
 You can use R-Admin/ZeroTier One or something for online play ^^!!
+
 =====================================>
 
 ## Screenshots
