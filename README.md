@@ -3,6 +3,8 @@ I've been working on this for a while now, releasing it to the public for those 
 
 My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently nov 8th) 
 
+Builds are in releases !! Have fun :D
+
 Supports iOS, Android, Windows
 
 - Offline Play & LAN Multiplayer
