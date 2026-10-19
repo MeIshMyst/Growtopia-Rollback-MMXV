@@ -1,4 +1,4 @@
-# Growtopia-Rollback-MMXV
+# Growtopia: Rollback MMXV
 I've been working on this passion project for a while now, releasing it to the public for those who want to experience 2015 Growtopia again!
 My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently nov 8th) 
 
