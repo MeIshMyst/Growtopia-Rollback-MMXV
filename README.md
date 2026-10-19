@@ -27,4 +27,6 @@ WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney
 
 ALSO Finish wiki, not everything is labeled correctly, i was transitioning how im handling wip/moderator items (i had wip/unobtainable as the same thing so)
 
-Please report any issues/inaccuracies you find!
+Please report any issues/inaccuracies you find, and feel free to ask questions!
+
+You can use R-Admin/ZeroTier One or something for online play ^^!!
