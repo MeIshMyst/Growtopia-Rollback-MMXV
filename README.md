@@ -12,11 +12,16 @@ Supports iOS, Android, Windows
 - 3 Player slots, locally saved worlds & exportable/importable save file
 - Events(Locke, Anniversary Week, Carnival, Night Of The Comet, Valentines, Easter Week, Cinco De Mayo Week, SummerFest, Harvest Festival, Halloween Week/Growganoth) 1:1r
 - Niche era accurate easter eggs + one silly custom easter Egg
-- All Providers, Splicing recipes,
+- All Providers, Splicing recipes
+- Adventure Pack
+-  water 1:1 physics etc
 - MAJORITY of Consumables/Mods
 - Blasts/Weather Machine
+- Fire system
+- Special events (average 12 hours/8 hours with 2+ people)
 - Block Drops(Piglet, Chick, Calf, Butterfly, Penguin, Kerjigger, Hedge/Foliage, etc)
-- And ALOOOOT more to truly be a rollback to 2015 <3 
+- And ALOOOOT more to truly be an authentic rollback to 2015 <3
+
 
 WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney, Pineapple, Legendary Wizards quests, Challenges Substitude, Golden apple, Trophy3000/3001 & Growie obtainment, Fishing system, finish undersea blast generation calculations, rest of achievements, optimizing, vita port, LEGENDARYMOUNTAIN, STOPDONTDROP, WHATVILLE, WOLFWORLD, KYDERBY, Winterfest special events, fishing pack
 
