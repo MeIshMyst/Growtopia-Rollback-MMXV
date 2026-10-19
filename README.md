@@ -3,6 +3,7 @@ I've been working on this passion project for a while now, releasing it to the p
 My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently nov 8th) 
 
 Builds are in releases !! Have fun :D
+wiki is just a html so uhh just save it i guess
 
 =====================================>
 
