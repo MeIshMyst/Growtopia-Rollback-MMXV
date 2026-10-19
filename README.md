@@ -1,5 +1,5 @@
 # Growtopia-Rollback-MMXV
-I've been working on this for a while now, releasing it to the public for those who want to experience 2015 Growtopia again!
+I've been working on this passion project for a while now, releasing it to the public for those who want to experience 2015 Growtopia again!
 My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently nov 8th) 
 
 Builds are in releases !! Have fun :D
@@ -29,6 +29,8 @@ Supports iOS, Android, Windows
 
 WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney, Pineapple, Legendary Wizards quests, Challenges Substitude, Golden apple, Trophy3000/3001 & Growie obtainment, Fishing system, finish undersea blast generation calculations, rest of achievements, optimizing, vita port, LEGENDARYMOUNTAIN, STOPDONTDROP, WHATVILLE, WOLFWORLD, KYDERBY, Winterfest special events, fishing pack
 ALSO Finish wiki, not everything is labeled correctly, i was transitioning how im handling wip/moderator items (i had wip/unobtainable as the same thing so)
+
+Dont expect updates for awhile, i need a break ive been at this for over 10+ hours a day for a few months LOL(and i took alot from my time working on private gtps servers in 2021)
 
 =====================================>
 
