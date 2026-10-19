@@ -37,7 +37,8 @@ Dont expect updates for awhile, i need a break ive been at this for over 10+ hou
 
 Please report any issues/inaccuracies you find, and feel free to ask questions!
 You can use R-Admin/ZeroTier One or something for online play ^^!!
-Supporter status is obtained by getting 50 achievements
+Supporter status is obtained by getting 50 achievements though itd be a cool reason to go after achievements
+
 =====================================>
 
 ## Screenshots
