@@ -25,7 +25,7 @@ Supports iOS, Android, Windows
 - Special events (average 12 hours/8 hours with 2+ people)
 - Block Drops(Piglet, Chick, Calf, Butterfly, Penguin, Kerjigger, Hedge/Foliage, etc)
 - And ALOOOOT more to truly be an authentic rollback to 2015 <3
-- 
+
 =====================================>
 
 WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney, Pineapple, Legendary Wizards quests, Challenges Substitude, Golden apple, Trophy3000/3001 & Growie obtainment, Fishing system, finish undersea blast generation calculations, rest of achievements, optimizing, vita port & ad hoc support, LEGENDARYMOUNTAIN, STOPDONTDROP, WHATVILLE, WOLFWORLD, KYDERBY, Winterfest special events, fishing pack
