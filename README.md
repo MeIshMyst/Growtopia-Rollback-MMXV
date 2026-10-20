@@ -29,7 +29,6 @@ Supports iOS, Android, Windows
 =====================================>
 
 WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney, Pineapple, Legendary Wizards quests, Challenges Substitude, Golden apple, Trophy3000/3001 & Growie obtainment, Fishing system, finish undersea blast generation calculations, rest of achievements, optimizing, vita port & ad hoc support, LEGENDARYMOUNTAIN, STOPDONTDROP, WHATVILLE, WOLFWORLD, KYDERBY, Winterfest special events, fishing pack
-ALSO Finish wiki, not everything is labeled correctly, i was transitioning how im handling wip/moderator items (i had wip/unobtainable as the same thing so)
 
 Dont expect updates for awhile, i need a break ive been at this for over 10+ hours a day for a few months LOL(and i took alot from my time working on private gtps servers in 2021)
 
@@ -84,4 +83,7 @@ Supporter status is obtained by getting 50 achievements though itd be a cool rea
 <img width="1820" height="907" alt="image" src="https://github.com/user-attachments/assets/8845a7fa-e3fa-43d7-8913-5b0efafb3cc2" />
 
 <img width="827" height="899" alt="image" src="https://github.com/user-attachments/assets/ec0c4920-2623-462b-94f9-af48af9d235d" />
+
+<img width="1827" height="906" alt="image" src="https://github.com/user-attachments/assets/b06f31a7-e18e-41ce-8e3b-4d6f4dc58b5c" />
+
 
