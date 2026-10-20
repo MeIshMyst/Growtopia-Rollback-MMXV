@@ -62,3 +62,26 @@ Supporter status is obtained by getting 50 achievements though itd be a cool rea
 <img width="726" height="635" alt="9" src="https://github.com/user-attachments/assets/eb26ab9e-57b6-4afa-8773-7fa1757754a2" />
 
 <img width="1012" height="747" alt="10" src="https://github.com/user-attachments/assets/6f7434f6-5433-4b82-8109-9a730a038e11" />
+
+<img width="1826" height="902" alt="image" src="https://github.com/user-attachments/assets/8c35092d-ff9e-483e-9bed-c194a83a8c7d" />
+
+<img width="1853" height="906" alt="image" src="https://github.com/user-attachments/assets/c5a536a5-c334-4426-8a25-ac6a0a801c39" />
+
+<img width="1835" height="895" alt="image" src="https://github.com/user-attachments/assets/82cbad3b-fcb0-46ed-aecf-ada4a467c4e9" />
+
+<img width="1826" height="893" alt="image" src="https://github.com/user-attachments/assets/659a4fbf-038e-40e6-85f8-12607f3e0fde" />
+
+<img width="1839" height="886" alt="image" src="https://github.com/user-attachments/assets/578cf193-0842-4f7e-83e5-b1a0c426a6b5" />
+
+<img width="1836" height="910" alt="image" src="https://github.com/user-attachments/assets/7e91094a-df3b-431b-8139-afbfa394f89c" />
+
+<img width="1870" height="922" alt="image" src="https://github.com/user-attachments/assets/83ce23d2-ff49-475c-a415-1850c97fb0e2" />
+
+<img width="1726" height="872" alt="image" src="https://github.com/user-attachments/assets/0d138845-4d3d-4f69-aa59-2a1e4b9886c4" />
+
+<img width="1829" height="884" alt="image" src="https://github.com/user-attachments/assets/6f7f3b0c-534e-4d25-93c6-8053e399e9a2" />
+
+<img width="1820" height="907" alt="image" src="https://github.com/user-attachments/assets/8845a7fa-e3fa-43d7-8913-5b0efafb3cc2" />
+
+<img width="827" height="899" alt="image" src="https://github.com/user-attachments/assets/ec0c4920-2623-462b-94f9-af48af9d235d" />
+
