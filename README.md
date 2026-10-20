@@ -20,6 +20,7 @@ Supports iOS, Android, Windows
 - Adventure Pack
 -  water 1:1 physics etc
 - MAJORITY of Consumables/Mods
+- all item effects(holy shit this took forever) 1:1 
 - Blasts/Weather Machine
 - Fire system
 - Special events (average 12 hours/8 hours with 2+ people)
