@@ -14,7 +14,7 @@ Supports iOS, Android, Windows
 - Worlds + Preset Worlds(WIP are inaccessible, use wiki for more information)
 - Custom GrowID screen, Multiplayer Growtoken playtime rewards, Ingame event calender, custom delete growid animation etc
 - 3 Player slots, locally saved worlds & exportable/importable save file
-- Events(Locke, Anniversary Week, Carnival, Night Of The Comet, Valentines, Easter Week, Cinco De Mayo Week, SummerFest, Harvest Festival, Halloween Week/Growganoth) 1:1r
+- Events(Locke, Anniversary Week, Carnival, Night Of The Comet, Valentines, Easter Week, Cinco De Mayo Week, SummerFest, Harvest Festival, Halloween Week/Growganoth) 1:1
 - Niche era accurate easter eggs + one silly custom easter Egg
 - All Providers, Splicing recipes
 - Adventure Pack
