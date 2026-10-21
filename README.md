@@ -1,10 +1,12 @@
+FYI: I did forget to mention github is not where im staying, ill be on teto.center once i finish setting it up!
+
 # Growtopia: Rollback MMXV
 I've been working on this passion project for a while now, releasing it to the public for those who want to experience 2015 Growtopia again!
 My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently nov 8th) 
 
 Builds are in releases !! Have fun :D
 
-Download the wiki as a zip with a html in it or visit: http://teto.center/static/gtmmxvwiki.html
+Download the wiki as a zip with a html in it
 
 =====================================>
 
