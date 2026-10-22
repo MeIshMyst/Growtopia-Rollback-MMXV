@@ -1,48 +1,6 @@
-FYI: I did forget to mention github is not where im staying, ill be on teto.center once i finish setting it up!
-
-# Growtopia: Rollback MMXV
-I've been working on this passion project for a while now, releasing it to the public for those who want to experience 2015 Growtopia again!
-My goal is an Authentic 1:1 Recreation of 2015 Growtopia (Dec 31st, currently nov 8th) 
-
-Builds are in releases !! Have fun :D
-
-Download the wiki as a zip with a html in it
-
-=====================================>
-
-Supports iOS, Android, Windows
-
-- Offline Play & LAN Multiplayer
-- 1:1 2015 XP System
-- Worlds + Preset Worlds(WIP are inaccessible, use wiki for more information)
-- Custom GrowID screen, Multiplayer Growtoken playtime rewards, Ingame event calender, custom delete growid animation etc
-- 3 Player slots, locally saved worlds & exportable/importable save file
-- Events(Locke, Anniversary Week, Carnival, Night Of The Comet, Valentines, Easter Week, Cinco De Mayo Week, SummerFest, Harvest Festival, Halloween Week/Growganoth) 1:1
-- Niche era accurate easter eggs + one silly custom easter Egg
-- All Providers, Splicing recipes
-- Adventure Pack
--  water 1:1 physics etc
-- MAJORITY of Consumables/Mods
-- all item effects(holy shit this took forever) 1:1 
-- Blasts/Weather Machine
-- Fire system
-- Special events (average 12 hours/8 hours with 2+ people)
-- Block Drops(Piglet, Chick, Calf, Butterfly, Penguin, Kerjigger, Hedge/Foliage, etc)
-- And ALOOOOT more to truly be an authentic rollback to 2015 <3
-
-=====================================>
-
-WIP/TODO: (Surgery, Villains, Game Pack, Growch/Winterfest, St. Patricks/Blarney, Pineapple, Legendary Wizards quests, Challenges Substitude, Golden apple, Trophy3000/3001 & Growie obtainment, Fishing system, finish undersea blast generation calculations, rest of achievements, optimizing, vita port & ad hoc support, LEGENDARYMOUNTAIN, STOPDONTDROP, WHATVILLE, WOLFWORLD, KYDERBY, Winterfest special events, fishing pack
-
-Dont expect updates for awhile, i need a break ive been at this for over 10+ hours a day for a few months LOL(and i took alot from my time working on private gtps servers in 2021)
-
-=====================================>
-
-Please report any issues/inaccuracies you find, and feel free to ask questions!
-You can use R-Admin/ZeroTier One or something for online play ^^!!
-Supporter status is obtained by getting 50 achievements though itd be a cool reason to go after achievements
-
-=====================================>
+moving to https://teto.center 
+itll be done by 10/23/2026
+bye bye temp github
 
 ## Screenshots
 
